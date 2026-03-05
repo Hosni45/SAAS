@@ -1,0 +1,5 @@
+{
+  "name": "FixIt Marketplace",
+  "description": "A comprehensive home service marketplace connecting customers with professional service providers.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
